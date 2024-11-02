@@ -1,4 +1,4 @@
-drop schema EST_III;
+DROP SCHEMA EST_III;
 
 CREATE SCHEMA EST_III;
 
